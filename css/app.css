@@ -15,9 +15,10 @@ html {
 
 h2 {
     margin: 0;
-    transform: rotate(-45deg);
+    transform: rotate(-25deg);
     transition: transform 0.5s;
-    text-shadow: 0 0 5px #01579b;
+    text-shadow: 2 2 5px #fff;
+	color:#000;
 }
 
 body {
